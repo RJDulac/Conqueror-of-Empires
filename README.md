@@ -16,11 +16,6 @@ _If these don't work for you, or your system isn't listed, it is possible to mak
 
 ***
 
-## Running the Tests
-- To Run all, run the `tests.py` file from the repository root.
-
-***
-
 ## Dependencies
 _(For source)_
 - Python (made with 3.6.5)
